@@ -1,0 +1,4 @@
+repository "Spin.IO@CowBoy@cloud"
+  path "/"
+    br "/main"
+    co "/main"
